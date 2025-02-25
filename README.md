@@ -34,3 +34,8 @@ Interested in collaborating or enhancing Arabic Corpse? Reach out for design imp
 
 ---
 📩 For inquiries, contact: **tayyabshahid3344@gmail.com**
+
+## 🖼️ Screenshots
+
+![Split Screen](https://github.com/user-attachments/assets/8c4aedbc-27ea-4281-8429-932548cba2aa)
+![Main Page](https://github.com/user-attachments/assets/35bce20f-f46c-4b2a-b69b-07ba9022c0fa)
